@@ -1,0 +1,2 @@
+# Eboighar.com-Customer-Purchase-Analysis
+ Eboighar.com is an online audio bookstore in Bangladesh that sells audio books. The Online Store wants to analyze the historical data to predict whether an existing customer will buy again or not !  Company Eboighar.com will deploy the analysis result to sort out the customers who are likely to purchase again. Thus it helps the company to demonish the sells and advertizing cost.
